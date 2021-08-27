@@ -1,3 +1,2 @@
 # javascript
-https://github.com/javascript counter
-[counter]
+[counter](https://github.com/javascript)
